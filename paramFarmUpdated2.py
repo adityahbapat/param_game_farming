@@ -35,7 +35,7 @@ if __name__ == '__main__':
     # @popol.fr.nf
     email_domain = "@contact.biz.st"
 
-    password = "Ramdas*21"
+    password = "YOURPASSWORD"
 
     captchaKeyValue = '09AM6hZhZNbC3gjTyiGuvDY1TFlcgEoAxtkefshnvA7u9Uyaih9ielLcLKPDDsWbQIQPIQOV44hAkQBJgTypqTnKsjuaRp7V8c0PLkeg'
 
