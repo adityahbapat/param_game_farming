@@ -30,8 +30,7 @@ yopmail_url_cookie = "https://yopmail.com/en/wm"
 
 email_domain = "@popol.fr.nf"
 
-password = "Ramdas*21"
-
+password = "YOURPASSWORD"
 
 for i in range(106,121,1):
     username = "paramnoah" + str(i)
