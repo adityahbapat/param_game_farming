@@ -67,7 +67,7 @@ for i in range(15,17,1):
     username = "paramnoah" + str(i)
     email_domain = "@popol.fr.nf"
     emailId = username + email_domain
-    password = "Ramdas*21"
+    password = "YOURPASSWORD"
 
     # Step 1: Open https://paramgaming.com/?referCode=9BCDF876BC#/signup
     paramgaming_url = "https://paramgaming.com/?referCode=9BCDF876BC#/signup"
